@@ -24,12 +24,10 @@ const Home = () => {
           {typedName}
         </h1>
         <h2 className='text-3xl sm:text-5xl font-bold text-[#8892b0] py-3'>
-          Software Developer Intern at Klingelnberg India.
+          SDE Intern at Zensar.
         </h2>
         <p className='text-[#8892b0] py-3 max-w-[800px]'>
-          I'm a Computer Science Engineering student passionate about coding, specializing in Web Development
-          and Data Structures. With over 950 LeetCode challenges solved, I thrive on problem-solving.
-          Beyond tech, I'm an avid traveler. Let's connect and explore new horizons together!
+        A driven and solutions-focused Computer Science student in my final year, I’m passionate about building scalable tech that solves real-world problems. With over 1,000 LeetCode problems solved and a 370+ day streak, I’ve developed strong expertise in data structures, algorithms, and systems thinking—earning a spot among the top 10K competitive programmers globally. I have a rating of 1350+ on Codeforces.
         </p>
         <div>
           <a href='tel:+919699114832'>
